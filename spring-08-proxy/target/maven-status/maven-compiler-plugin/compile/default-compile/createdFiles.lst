@@ -1,0 +1,14 @@
+com\qy\demo02\UserServiceProxy.class
+com\qy\demo01\Rent.class
+com\qy\demo03\Rent.class
+com\qy\demo04\Client.class
+com\qy\demo01\Host.class
+com\qy\demo01\Client.class
+com\qy\demo03\Host.class
+com\qy\demo02\Client.class
+com\qy\demo03\ProxyInvocationHandler.class
+com\qy\demo02\UserService.class
+com\qy\demo03\Client.class
+com\qy\demo01\Proxy.class
+com\qy\demo04\ProxyInvocationHandler.class
+com\qy\demo02\UserServiceImpl.class
