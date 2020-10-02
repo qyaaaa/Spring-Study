@@ -1,0 +1,4 @@
+com\qy\service\User.class
+com\qy\dao\User.class
+com\qy\controller\User.class
+com\qy\pojo\User.class
